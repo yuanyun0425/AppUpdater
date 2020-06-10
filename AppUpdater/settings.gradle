@@ -1,0 +1,4 @@
+include ':securitylib'
+include ':appupdater'
+include ':app'
+rootProject.name = "My Application"
